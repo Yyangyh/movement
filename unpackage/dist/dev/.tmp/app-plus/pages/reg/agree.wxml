@@ -1,0 +1,1 @@
+<view class="page" bind:__l="__l"><view class="back"><uni-icon size="28" type="arrowleft" data-event-opts="{{[['^click',[['back']]]]}}" bind:click="__e"></uni-icon></view><view style="margin:40rpx 38rpx;"><view class="_div"><rich-text nodes="{{terms}}"></rich-text></view></view></view>

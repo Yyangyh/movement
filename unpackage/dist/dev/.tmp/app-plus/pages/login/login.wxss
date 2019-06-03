@@ -1,0 +1,70 @@
+
+page{
+	background: #F7F7F7;
+}
+.back_img{
+	width: 100%;
+	height: 100%;
+	position: fixed;
+}
+.login{
+	z-index: 998;
+	padding: 90% 0rpx 0rpx;
+}
+.log{
+	padding: 100rpx 70rpx 0rpx;
+}
+.log-lable {
+	font-size: 48rpx;
+	font-weight: bold;
+	text-align: center;
+	margin-top: -400rpx;
+	color: rgba(0, 0, 0, 1);
+}
+.log-prompt {
+	width: 100%;
+	height: 24rpx;
+	font-size: 24rpx;
+	font-weight: 500;
+	margin-top: 80rpx;
+	line-height: 46rpx;
+	color: rgba(153, 153, 153, 1);
+}
+.log-input {
+	height: 90rpx;
+	line-height: 90rpx;
+	padding-left: 40rpx;
+	background: #FFFFFF;
+	border-radius: 45rpx;
+	margin-bottom: 40rpx;
+}
+.log-input text {
+	width: 25%;
+}
+input {
+	width: 400rpx;
+}
+.log-remark {
+	width: 100%;
+	height: 18rpx;
+	font-size: 19rpx;
+	font-weight: 500;
+	margin-top: 30rpx;
+	line-height: 46rpx;
+	color: rgba(101, 101, 101, 1);
+}
+.btn-area {
+	margin: 60rpx 0rpx;
+}
+.log-bottom navigator{
+	color:#ffa100;
+	font-size:30rpx;
+	font-weight:400;
+}
+.bottom-left{
+	float: left;
+}
+.bottom-right{
+	float: right;
+}
+

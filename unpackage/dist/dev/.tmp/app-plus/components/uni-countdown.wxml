@@ -1,0 +1,1 @@
+<view class="uni-countdown" bind:__l="__l"><text class="hour timer">{{h}}</text>:<text class="minute timer">{{i}}</text>:<text class="second timer">{{s}}</text></view>

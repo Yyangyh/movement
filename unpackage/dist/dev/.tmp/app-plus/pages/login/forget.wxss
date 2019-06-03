@@ -1,0 +1,82 @@
+
+page{
+	background: #F7F7F7;
+}
+.log-lable {
+	width: 100%;
+	font-size: 48rpx;
+	font-weight: bold;
+	margin-top: 120rpx;
+	text-align: center;
+	color: rgba(0, 0, 0, 1);
+}
+.code input{
+	padding-left: 30rpx;
+}
+.log-input {
+	width: auto;
+	height: 90rpx;
+	background: white;
+	margin-top: 42rpx;
+	line-height: 90rpx;
+	padding-left: 40rpx;
+	border-radius: 45rpx;
+}
+.log-input text {
+	width: 30%;
+	float: left;
+	font-size: 24rpx;
+	text-align: justify;
+}
+.log-remark {
+	width: 100%;
+	height: 18rpx;
+	font-size: 19rpx;
+	font-weight: 500;
+	margin-top: 30rpx;
+	line-height: 46rpx;
+	color: rgba(101, 101, 101, 1);
+}
+.agreement{
+	font-size: 28rpx;
+	text-align: right;
+	margin-top: 40rpx;
+}
+.agr_text{
+	float: right;
+	color: #5D8AFC;
+	margin-right: 120rpx;
+}
+.oauth-row {
+	top: 0;
+	left: 0;
+	width: 100%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	position: absolute;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	    -ms-flex-direction: row;
+	        flex-direction: row;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+}
+.oauth-image {
+	width: 100 upx;
+	height: 100 upx;
+	margin: 0 40 upx;
+	border-radius: 100 upx;
+	background-color: #ffffff;
+	border: 1 upx solid #dddddd;
+}
+.oauth-image image {
+	width: 60rpx;
+	height: 60rpx;
+	margin: 20rpx;
+}
+

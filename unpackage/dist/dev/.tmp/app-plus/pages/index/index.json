@@ -1,0 +1,32 @@
+{
+  "titleNView": {
+    "type": "transparent",
+    "searchInput": {
+      "align": "left",
+      "backgroundColor": "rgba(231, 231, 231,.7)",
+      "placeholder": "请输入商品名称",
+      "placeholderColor": "#606266"
+    },
+    "buttons": [
+      {
+        "fontSrc": "/static/yticon.ttf",
+        "text": "",
+        "fontSize": "26",
+        "color": "#303133",
+        "float": "left",
+        "background": "rgba(0,0,0,0)"
+      },
+      {
+        "fontSrc": "/static/yticon.ttf",
+        "text": "",
+        "fontSize": "27",
+        "color": "#303133",
+        "background": "rgba(0,0,0,0)",
+        "redDot": true
+      }
+    ]
+  },
+  "usingComponents": {
+    "uni-countdown": "/components/uni-countdown"
+  }
+}
