@@ -1,8 +1,10 @@
-﻿/* 用户 */
+/* 用户 */
 const userInfo = {
 	status: 1,
 	data: {
 		id: 1,
+		mobile: 18888888888,
+		mobile: 18888888888,
 		mobile: 18888888888,
 		nickname: 'Leo yo',
 		portrait: 'http://img.61ef.cn/news/201409/28/2014092805595807.jpg'
@@ -22,7 +24,7 @@ const carouselList = [{
 	},
 	{
 		id:'3',
-		src: "/static/temp/banner4.jpg",
+		src: "/static/temp/banne	r4.jpg",
 		background: "rgb(183, 73, 69)",
 	},
 	{
